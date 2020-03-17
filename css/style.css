@@ -411,7 +411,7 @@ input[type=submit]:hover {
 
 .parallax7 {
   /* The image used */
-  background-image: url("../images/Maverg.PNG");
+  background-image: url("../images/Maverg.png");
 
   /* Set a specific height */
   min-height: 300px; 
